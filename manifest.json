@@ -19,13 +19,7 @@
     "https://imleauges.com/",
     "storage"
   ],
-  "icons": {
-    "128": "adBlock.jpg",
-    "16": "adBlock.jpg",
-    "48": "adBlock.jpg"
-  },
   "background": {
     "service_worker": "background.js"
   }
- // }
 }
