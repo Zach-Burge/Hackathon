@@ -1,2 +1,21 @@
 //this is a test for my manifest file
-
+{
+  "manifest_version": 2,
+  "name": "IMLeauges AD Blocker",
+  "version": "1.0",
+  "description": "Blocks adds on the website IM-Leauges for Gonzaga University",
+  "author": "Zach Burge, Cole Elfstrom, Graham Sabin, Ian Flury",
+  "browser_action": {
+    "default_title": "ImLeauges AdBlocker"
+  },
+  "permissions": [
+    "tabs",
+    "webNavigation",
+    "https://imleauges.com/"
+  ],
+  "background": {
+    "scripts": [
+      "adBlocker.js"
+    ]
+  }
+}
