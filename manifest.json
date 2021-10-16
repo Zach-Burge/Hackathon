@@ -14,9 +14,9 @@
     "https://imleauges.com/"
   ],
   "icons": {
-    "16": "adBlocker.jpeg",
-    "48": "adBlocker.jpeg",
-    "128": "adBlocker.jpeg"
+    "16": "adBlock.jpeg",
+    "48": "adBlock.jpeg",
+    "128": "adBlock.jpeg"
   }
  // "background": {
     //"scripts": [
