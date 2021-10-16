@@ -7,7 +7,7 @@
   "author": "Zach Burge, Cole Elfstrom, Graham Sabin, Ian Flury",
   "browser_action": {
     "default_title": "ImLeauges AdBlocker",
-    "default_icon": {
+    "icons": {
       "16": "adBlock16.jpg",
       "48": "adBlock48.jpg",
       "128": "adBlock128.jpg"
