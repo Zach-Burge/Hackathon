@@ -1,12 +1,17 @@
 //this is a test for my manifest file
 {
   "manifest_version": 2,
-  "name": "IMLeauges AD Blocker",
+  "name": "IMLeagues AD Blocker",
   "version": "1.0",
   "description": "Blocks adds on the website IM-Leagues",
   "author": "Zach Burge, Cole Elfstrom, Graham Sabin, Ian Flury",
   "browser_action": {
-    "default_title": "ImLeauges AdBlocker"
+    "default_title": "ImLeagues AdBlocker"
+  },
+  "icons": {
+    "16": "adBlock16.jpg",
+    "48": "adBlock48.jpg",
+    "128": "adBlock128.jpg"
   },
   "permissions": [
     "tabs",
@@ -22,4 +27,5 @@
   "background": {
     "service_worker": "background.js"
   }
+ // }
 }
