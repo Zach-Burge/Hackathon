@@ -25,7 +25,4 @@
     "scripts": [ "background.js" ]
   }
 
-  "action": {
-    "default_popup":  "popup.html"
-  }
 }
