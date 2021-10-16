@@ -8,9 +8,9 @@
   "browser_action": {
     "default_title": "ImLeauges AdBlocker",
     "default_icon": {
-      "16": "adBlock.jpg",
-      "48": "adBlock.jpg",
-      "128": "adBlock.jpg"
+      "16": "adBlock16.jpg",
+      "48": "adBlock48.jpg",
+      "128": "adBlock128.jpg"
     }
   },
   "permissions": [
