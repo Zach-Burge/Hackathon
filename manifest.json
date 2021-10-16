@@ -19,6 +19,10 @@
   "permissions": [
     "tabs",
     "webNavigation",
-    "https://imleauges.com/"
-  ]
+    "https://imleauges.com/",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
 }
