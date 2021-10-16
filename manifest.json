@@ -18,9 +18,9 @@
     "48": "adBlocker.jpeg",
     "128": "adBlocker.jpeg"
   },
-  "background": {
-    "scripts": [
-      "adBlocker.js"
-    ]
-  }
+ // "background": {
+    //"scripts": [
+     // "adBlocker.js"
+    //]
+ // }
 }
