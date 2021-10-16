@@ -17,9 +17,11 @@
     "tabs",
     "webNavigation",
     "https://imleauges.com/",
-    "storage"
+    "storage",
+    "webRequest",
+    "webRequestBlocking"
   ],
   "background": {
-    "scripts": "background.js"
+    "scripts": [ "background.js" ]
   }
 }
