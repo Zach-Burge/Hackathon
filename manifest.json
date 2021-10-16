@@ -7,6 +7,9 @@
   "author": "Zach Burge, Cole Elfstrom, Graham Sabin, Ian Flury",
   "browser_action": {
     "default_title": "ImLeagues AdBlocker"
+    "default_icon": {
+      "16":  "adBlock16.jpg"
+    }
   },
   "icons": {
     "16": "adBlock16.jpg",
