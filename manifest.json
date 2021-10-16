@@ -13,6 +13,11 @@
     "webNavigation",
     "https://imleauges.com/"
   ],
+  "icons": {
+    "16": "adBlocker.jpeg",
+    "48": "adBlocker.jpeg",
+    "128": "adBlocker.jpeg"
+  },
   "background": {
     "scripts": [
       "adBlocker.js"
