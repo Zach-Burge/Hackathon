@@ -16,7 +16,7 @@
   "permissions": [
     "tabs",
     "webNavigation",
-    "https://imleauges.com/",
+    "https://www.imleagues.com/",
     "storage",
     "webRequest",
     "webRequestBlocking"
