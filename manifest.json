@@ -6,7 +6,8 @@
   "description": "Blocks adds on the website IM-Leagues",
   "author": "Zach Burge, Cole Elfstrom, Graham Sabin, Ian Flury",
   "browser_action": {
-    "default_title": "ImLeagues AdBlocker"
+    "default_title": "ImLeagues AdBlocker",
+    "default_popup": "popup.html"
   },
   "icons": {
     "16": "adBlock16.png",
