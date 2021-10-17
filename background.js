@@ -6,6 +6,6 @@ chrome.runtime.onInstalled.addListener(() => {
 });
 chrome.webRequest.onBeforeRequest.addListener(
     function (details) { return { cancel: true }; },
-    { urls: ["*://*.doubleclick.net/*"] },
+    { urls: ["*://*.doubleclick.net/*", "*://*.connatix.com/*", "*://*.secure.adnxs.com/*"] },
     ["blocking"]
 );
